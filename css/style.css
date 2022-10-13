@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    margin-bottom: 20px;
+}
+
+body {
+    padding: 30px;
+    font-family: helvetica, Arial;
+}
+
+h2 {
+    color: #5d5d5d;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+    font-family: cursive;
+}
+
+p {
+    color: #1a1a1a;
+    line-height: 25px;
+}
+
+img {
+    display: block;
+    max-width: 400px;
+    width: 100%;
+}
